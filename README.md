@@ -18,5 +18,5 @@ We get these following message
  http://127.0.0.1:5000//robots1.txt to get permission denied message
  http://127.0.0.1:5000//robots.txt to get output of http://httpbin.org/deny
  Question7:
- http://127.0.0.1:5000/input to display ur name
+ http://127.0.0.1:5000/input to enter ur name
   http://127.0.0.1:5000/result to display ur name
