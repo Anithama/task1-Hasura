@@ -11,9 +11,9 @@ pip install virtualenv
     * virtualenv venv
 * To activate corresponding environment, on Linux/OS X, use the following −
 On Windows, following can be used −
-* venv\scripts\activate
+   * venv\scripts\activate
 * We are now ready to install Flask in this environment.
-* pip install Flask
+  * pip install Flask
 
 To run all the python files
 * Step1:open in command prompt go to the directory where the file is stored
